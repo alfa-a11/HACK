@@ -1,0 +1,7 @@
+yankı "# HACK" >> README.md
+git init
+git README.md ekleyin
+git commit - m "ilk taahhüt"
+git şubesi -M main
+git uzaktan kaynak ekle https://github.com/alfa-a11/HACK.git
+git push -u menşei ana
